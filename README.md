@@ -2,6 +2,8 @@
 
 ### Front-End Developer
 
+Desde que comencé, mi deseo de crecer profesionalmente en la industria del desarrollo web me impulsa a aprender constantemente. Mi objetivo es seguir evolucionando y ampliando mis habilidades en esta área.
+
 ## Tecnologias 
 <p align="center">
   <a href="https://skillicons.dev">
