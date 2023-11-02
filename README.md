@@ -6,9 +6,7 @@ Desde que comencé, mi deseo de crecer profesionalmente en la industria del desa
 
 ## Tecnologias 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git" />
 </p>
 
 ## Encuéntrame en:
